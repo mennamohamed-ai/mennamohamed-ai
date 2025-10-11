@@ -12,7 +12,7 @@
 - 🎯 Strong foundations in **Software Engineering**, **Algorithms**, **Databases**, and **System Analysis**
 - 💻 Skilled in multiple programming languages:  
   **Python, JavaScript, Java, C, C++, C#, PHP, HTML, CSS, SQL/MySQL**
-- 🧪 Currently focusing on **Software Testing & Automation** using **Selenium**, **Python**, and **JavaScript**
+- 🧪 Currently focusing on **Software Testing & Automation** using **Selenium**, **Python**, and **Java**
 - 📊 Also have experience in:
   - **Database Design & Management**
   - **UML and System Design Diagrams**
