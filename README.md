@@ -79,15 +79,15 @@
 
 ### 📊 GitHub Stats
 
-![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennazezo5&show_icons=true&theme=tokyonight&count_private=true)
+![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennazezo5&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight)
 
 ---
 
 ### ⚡ Recent GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennazezo5&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennamohamed-ai&theme=tokyo-night)
 <p align="center">
   🚀 Passionate about software testing, automation, and building reliable systems. Let's connect!
 </p>
