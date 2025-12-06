@@ -79,9 +79,9 @@
 
 ### 📊 GitHub Stats
 
-![Menna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&count_private=true)
+![Menna's GitHub Stats](https://github-readme-stats-mrdulin.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-mrdulin.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight)
 
 ---
 
