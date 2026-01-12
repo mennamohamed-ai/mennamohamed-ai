@@ -1,26 +1,26 @@
 <h1 align="center">Hey there 👋, I'm Menna</h1>
 
 <p align="center">
-  💻 Computer Science Student | Junior Software Engineer | Passionate about Problem Solving & Building Real Projects
+  💻 Computer Science Student | Junior Software Engineer | Passionate about Problem Solving & Building Real-World Projects
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 👩‍🎓 3rd year student at **Faculty of Computers & Artificial Intelligence, Helwan University – Computer Science Department**
-- 🎯 Strong foundations in **Software Engineering**, **Algorithms**, **Databases**, and **System Analysis**
-- 💻 Skilled in multiple programming languages:  
+- 👩‍🎓 Third-year Computer Science student at **Faculty of Computers & Artificial Intelligence, Helwan University**
+- 🎯 Strong academic foundation in **Software Engineering**, **Algorithms**, **Databases**, and **System Analysis**
+- 💻 Proficient in multiple programming languages:  
   **Python, JavaScript, Java, C, C++, C#, PHP, HTML, CSS, SQL/MySQL**
-- 📊 Experience in:
+- 📊 Solid experience in:
   - **Object-Oriented Programming**
   - **Data Structures & Algorithms**
   - **Database Design & Management**
   - **UML & System Design Diagrams**
   - **Web Development**
-  - **Introductory Artificial Intelligence & Machine Learning**
-- 🌐 Comfortable working across different domains due to diverse academic and practical projects
-- 🛠️ I enjoy solving problems and building practical applications with real-world value
+  - **Artificial Intelligence & Machine Learning fundamentals**
+- 🌐 Able to work across different domains thanks to diverse academic and practical projects
+- 🛠️ Passionate about solving problems and building practical software solutions with real-world impact
 
 ---
 
@@ -44,42 +44,42 @@
 ### 📌 Featured Projects
 
 - 📊 **[Sort Benchmark](https://github.com/mennamohamed-ai/Sort-Benchmark)**  
-  Java application for benchmarking sorting algorithms including sequential and parallel merge sort using Fork/Join framework.
+  Java application for benchmarking sorting algorithms, including sequential and parallel merge sort using the Fork/Join framework.
 
 - 🤖 **[Machine Learning Project](https://github.com/mennamohamed-ai/machine_project)**  
-  Python-based project exploring data processing, model training, and evaluation using machine learning techniques.
+  Python-based project focused on data preprocessing, model training, and performance evaluation.
 
 - 💤 **[Sleeping TA Problem](https://github.com/mennamohamed-ai/Sleeping-TA-)**  
   Implementation of the classical synchronization problem demonstrating multithreading and concurrency concepts.
 
 - 🧩 **[KenKen Puzzle Solver](https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-)**  
-  Program that solves KenKen logic puzzles using algorithmic and problem-solving techniques.
+  Program that solves KenKen logic puzzles using algorithmic and structured problem-solving techniques.
 
 - 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)**  
-  Classic console-based game built using C++.
+  Classic console-based game developed in C++.
 
 - 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)**  
-  CLI tool to organize files by type automatically using C++.
+  Command-line tool that automatically organizes files by type using C++.
 
 - 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)**  
-  Secure file handling system implemented in C++.
+  Secure file handling application implemented in C++.
 
 - 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)**  
-  Automation tool for managing and loading repositories.
+  Automation tool for managing and loading repositories efficiently.
 
 - 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)**  
-  Java desktop application for managing restaurant operations including orders, menus, and billing.
+  Java desktop application for managing restaurant operations, including orders, menus, and billing.
 
 ---
 
-### 📚 What I'm Learning Now
+### 📚 What I'm Currently Learning
 
 - 🔎 Advanced Algorithms & Data Structures  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data Science with Python  
 - 🧩 System Design, UML, and Software Architecture  
 - 💡 Advanced Problem Solving  
-- 🕸️ Web Development & Backend Logic  
+- 🕸️ Web Development & Backend Development  
 
 ---
 
