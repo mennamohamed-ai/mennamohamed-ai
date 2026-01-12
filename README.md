@@ -64,9 +64,6 @@
 - 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)**  
   Secure file handling application implemented in C++ for encryption and decryption of sensitive data.
 
-- 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)**  
-  Automation tool for managing and loading multiple repositories efficiently, improving productivity.
-
 - 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)**  
   Java desktop application for managing restaurant operations, including orders, menus, and billing with a GUI interface.
 
