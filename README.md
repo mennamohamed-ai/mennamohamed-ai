@@ -8,19 +8,19 @@
 
 ### 🚀 About Me
 
-- 👩‍🎓 Third-year Computer Science student at **Faculty of Computers & Artificial Intelligence, Helwan University**
-- 🎯 Strong academic foundation in **Software Engineering**, **Algorithms**, **Databases**, and **System Analysis**
+- 👩‍🎓 Third-year Computer Science student at **Faculty of Computers & Artificial Intelligence, Helwan University**  
+- 🎯 Strong academic foundation in **Software Engineering**, **Algorithms**, **Databases**, **System Analysis**, and **Artificial Intelligence**  
 - 💻 Proficient in multiple programming languages:  
-  **Python, JavaScript, Java, C, C++, C#, PHP, HTML, CSS, SQL/MySQL**
-- 📊 Solid experience in:
-  - **Object-Oriented Programming**
-  - **Data Structures & Algorithms**
-  - **Database Design & Management**
-  - **UML & System Design Diagrams**
-  - **Web Development**
-  - **Artificial Intelligence & Machine Learning fundamentals**
-- 🌐 Able to work across different domains thanks to diverse academic and practical projects
-- 🛠️ Passionate about solving problems and building practical software solutions with real-world impact
+  **Python, JavaScript, Java, C, C++, C#, PHP, HTML, CSS, SQL/MySQL**  
+- 📊 Solid experience in:  
+  - **Object-Oriented Programming (OOP)**  
+  - **Data Structures & Algorithms**  
+  - **Database Design & Management**  
+  - **UML & System Design Diagrams**  
+  - **Web Development (Frontend & Backend)**  
+  - **AI & Machine Learning fundamentals**  
+- 🌐 Capable of working across multiple domains through academic and practical projects  
+- 🛠️ Passionate about solving problems and building practical, real-world software solutions  
 
 ---
 
@@ -44,49 +44,49 @@
 ### 📌 Featured Projects
 
 - 📊 **[Sort Benchmark](https://github.com/mennamohamed-ai/Sort-Benchmark)**  
-  Java application for benchmarking sorting algorithms, including sequential and parallel merge sort using the Fork/Join framework.
+  Java application for benchmarking sorting algorithms, including sequential and parallel merge sort using the Fork/Join framework. Features performance analysis and visualization.
 
 - 🤖 **[Machine Learning Project](https://github.com/mennamohamed-ai/machine_project)**  
-  Python-based project focused on data preprocessing, model training, and performance evaluation.
+  Python-based project covering data preprocessing, feature engineering, model training (Regression, KNN, Logistic Regression), and evaluation using real datasets.
 
 - 💤 **[Sleeping TA Problem](https://github.com/mennamohamed-ai/Sleeping-TA-)**  
-  Implementation of the classical synchronization problem demonstrating multithreading and concurrency concepts.
+  Implementation of the classical synchronization problem using Java multithreading and concurrency patterns with real-time GUI visualization.
 
 - 🧩 **[KenKen Puzzle Solver](https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-)**  
-  Program that solves KenKen logic puzzles using algorithmic and structured problem-solving techniques.
+  Algorithmic solver for KenKen logic puzzles using backtracking and structured problem-solving techniques, complete with GUI for user interaction.
 
 - 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)**  
-  Classic console-based game developed in C++.
+  Classic console-based game developed in C++ demonstrating OOP and problem-solving skills.
 
 - 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)**  
-  Command-line tool that automatically organizes files by type using C++.
+  Command-line utility in C++ to automatically organize files by type, showcasing automation and file system handling.
 
 - 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)**  
-  Secure file handling application implemented in C++.
+  Secure file handling application implemented in C++ for encryption and decryption of sensitive data.
 
 - 📦 **[Repositories Loading Tool](https://github.com/mennazezo5/RepositoriesLoading)**  
-  Automation tool for managing and loading repositories efficiently.
+  Automation tool for managing and loading multiple repositories efficiently, improving productivity.
 
 - 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)**  
-  Java desktop application for managing restaurant operations, including orders, menus, and billing.
+  Java desktop application for managing restaurant operations, including orders, menus, and billing with a GUI interface.
 
 ---
 
-### 📚 What I'm Currently Learning
+### 📚 Currently Learning
 
 - 🔎 Advanced Algorithms & Data Structures  
 - 🤖 Artificial Intelligence & Machine Learning  
 - 📊 Data Science with Python  
 - 🧩 System Design, UML, and Software Architecture  
-- 💡 Advanced Problem Solving  
+- 💡 Advanced Problem Solving Techniques  
 - 🕸️ Web Development & Backend Development  
 
 ---
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-ai/)
-- 📧 Email: mennamohamed00000011@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-ai/)  
+- 📧 Email: mennamohamed00000011@gmail.com  
 
 ---
 
