@@ -1,162 +1,180 @@
-<h1 align="center">Hi 👋, I'm Menna Mohamed</h1>
+<h1 align="center">Hi, I'm Menna Mohamed</h1>
 
 <p align="center">
-Computer Science Student • Backend Developer • DevOps Learner • Cloud Enthusiast
-</p>
-
-<p align="center">
-Building scalable backend systems, microservices, and cloud-native applications.
+  💻 Computer Science Student | Exploring DevOps | Passionate about AI, Software Engineering & Building Real-World Projects
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 Third-year Computer Science student at the **Faculty of Computers & Artificial Intelligence, Helwan University**
-- 💻 Interested in **Backend Development**, **Software Engineering**, **DevOps**, and **Cloud Computing**
-- 🌱 Currently learning **Docker, Linux, Kubernetes, CI/CD, and AWS**
-- 🧩 Passionate about designing scalable systems and solving real-world engineering problems
-- 🚀 Always building projects to improve software engineering and cloud development skills
+- 🌱 Currently focusing on **DevOps**, Cloud, Linux, Docker, Kubernetes, CI/CD, and Infrastructure Automation
+- 🤖 Interested in **Artificial Intelligence** and **Machine Learning**, with hands-on academic projects in NLP and Computer Vision
+- 💡 Strong foundation in **Software Engineering, Object-Oriented Programming, Data Structures & Algorithms**
+- 📚 Enjoy learning new technologies and building practical projects that combine software engineering principles with modern development practices
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Web & Databases
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-### Backend
+### AI & Data Science
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
+![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat)
+![Transformers](https://img.shields.io/badge/-Transformers-333333?style=flat)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Cloud
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
 
 ---
 
 # 🚀 Featured Projects
 
-## 🐾 PetClinic AWS
-
-Cloud-ready Pet Clinic Management System built using a microservices architecture.
+### 🐾 PetClinic AWS
+Cloud-ready microservices application built with Spring Boot, React, Docker, Docker Compose, GitHub Actions, and AWS deployment architecture.
 
 **Tech Stack**
-
+- Java
 - Spring Boot
 - React
 - Docker
-- FastAPI
+- Docker Compose
 - MySQL
-- GitHub Actions
+- FastAPI
 - AWS
+- GitHub Actions
 
 🔗 https://github.com/mennamohamed-ai/PetClinic-AWS
 
 ---
 
-## 🐾 PetClinic
+### 🐾 PetClinic
+Enterprise-style microservices application implementing REST APIs, authentication, Docker, Spring Cloud Gateway, Eureka, and ML integration.
 
-Enterprise-style Pet Clinic Management System implementing modern backend architecture.
-
-**Highlights**
-
-- Spring Boot Microservices
+**Tech Stack**
+- Java
+- Spring Boot
+- React
+- Docker
+- MySQL
 - Spring Security
-- JWT Authentication
-- Eureka
-- API Gateway
-- Docker Compose
 
 🔗 https://github.com/mennamohamed-ai/PetClinic
 
 ---
 
-## 📊 Spreadsheet Formula Compiler
+### 📝 Intelligent Text Summarization System
+Natural Language Processing project implementing both extractive and abstractive text summarization using TF-IDF and Transformer models (BART).
 
-Handwritten compiler front-end in Java featuring:
-
-- Lexical Analysis
-- Recursive-Descent Parser
-- AST Generation
-- Error Recovery
-
-🔗 https://github.com/mennamohamed-ai/SpreadsheetCompiler
-
----
-
-## 🤖 Intelligent Text Summarization
-
-Natural Language Processing project implementing both extractive and abstractive summarization.
-
-**Tech**
-
-- Python
-- NLTK
+**Highlights**
+- Text preprocessing
 - TF-IDF
-- Sentence Transformers
-- BART
+- Sentence Embeddings
+- BART Transformer
 - ROUGE Evaluation
 
-🔗 https://github.com/mennamohamed-ai/summarization_project
+🔗 Private Repository
 
 ---
 
-## 📈 Sort Benchmark
+### 📊 Sort Benchmark
+Benchmarking sequential and parallel sorting algorithms using Java Fork/Join Framework.
 
-Java project for benchmarking sequential and parallel sorting algorithms using the Fork/Join Framework.
+**Tech Stack**
+- Java
+- Multithreading
+- Fork/Join Framework
 
 🔗 https://github.com/mennamohamed-ai/Sort-Benchmark
 
 ---
 
-## 💤 Sleeping TA Problem
+### 📄 Spreadsheet Formula Compiler
+A handwritten compiler front-end for spreadsheet formulas implementing lexical analysis, recursive-descent parsing, and Abstract Syntax Tree generation.
 
-Implementation of the classic synchronization problem using Java multithreading and concurrency.
+**Tech Stack**
+- Java
+- Compiler Design
+- Recursive Descent Parser
+- AST
+
+🔗 Private Repository
+
+---
+
+### 🧩 KenKen Puzzle Solver
+Backtracking-based puzzle solver with GUI implementing search algorithms and optimization techniques.
+
+**Tech Stack**
+- Python
+- Backtracking
+- GUI
+
+🔗 https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-
+
+---
+
+### 💤 Sleeping TA Problem
+Java implementation of the classical synchronization problem using multithreading and GUI visualization.
+
+**Tech Stack**
+- Java
+- Threads
+- Synchronization
+- Swing
 
 🔗 https://github.com/mennamohamed-ai/Sleeping-TA-
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Linux Administration
-- Docker
-- Kubernetes
-- AWS
-- CI/CD Pipelines
-- Infrastructure & Cloud Deployment
-
----
-
-# 📫 Connect with Me
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/menna-mohamed-ai/
-
-📧 Email
-
-mennamohamed00000011@gmail.com
+- 🐧 Linux
+- 🔀 Git & GitHub
+- 🐳 Docker
+- ☸️ Kubernetes
+- ⚙️ CI/CD
+- ☁️ Cloud Computing
+- 🏗️ Infrastructure as Code
+- 🔄 DevOps Practices
 
 ---
 
-# 📊 GitHub Statistics
+## 📫 Connect With Me
+
+- 💼 LinkedIn  
+  https://www.linkedin.com/in/menna-mohamed-ai/
+
+- 📧 Email  
+  mennamohamed00000011@gmail.com
+
+---
+
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight)
 
@@ -164,25 +182,12 @@ mennamohamed00000011@gmail.com
 
 ---
 
-# 🔥 GitHub Activity
+## 📈 GitHub Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennamohamed-ai&theme=tokyo-night)
-
----
-
-# 🎯 2026 Goals
-
-- Master Docker
-- Learn Kubernetes
-- Deploy production-ready applications on AWS
-- Build complete CI/CD pipelines
-- Contribute to Open Source
-- Build production-grade backend systems
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennamohamed-ai&theme=tokyo-night)
 
 ---
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile!
-
 </p>
