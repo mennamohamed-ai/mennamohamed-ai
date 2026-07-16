@@ -1,104 +1,188 @@
-<h1 align="center">Hey there 👋, I'm Menna</h1>
+<h1 align="center">Hi 👋, I'm Menna Mohamed</h1>
 
 <p align="center">
-  💻 Computer Science Student | Junior Software Engineer | Passionate about Problem Solving & Building Real-World Projects
+Computer Science Student • Backend Developer • DevOps Learner • Cloud Enthusiast
+</p>
+
+<p align="center">
+Building scalable backend systems, microservices, and cloud-native applications.
 </p>
 
 ---
 
-### 🚀 About Me
+# 👩‍💻 About Me
 
-- 👩‍🎓 Third-year Computer Science student at **Faculty of Computers & Artificial Intelligence, Helwan University**  
-- 🎯 Strong academic foundation in **Software Engineering**, **Algorithms**, **Databases**, **System Analysis**, and **Artificial Intelligence**  
-- 💻 Proficient in multiple programming languages:  
-  **Python, JavaScript, Java, C, C++, C#, PHP, HTML, CSS, SQL/MySQL**  
-- 📊 Solid experience in:  
-  - **Object-Oriented Programming (OOP)**  
-  - **Data Structures & Algorithms**  
-  - **Database Design & Management**  
-  - **UML & System Design Diagrams**  
-  - **Web Development (Frontend & Backend)**  
-  - **AI & Machine Learning fundamentals**  
-- 🌐 Capable of working across multiple domains through academic and practical projects  
-- 🛠️ Passionate about solving problems and building practical, real-world software solutions  
+- 🎓 Third-year Computer Science student at the **Faculty of Computers & Artificial Intelligence, Helwan University**
+- 💻 Interested in **Backend Development**, **Software Engineering**, **DevOps**, and **Cloud Computing**
+- 🌱 Currently learning **Docker, Linux, Kubernetes, CI/CD, and AWS**
+- 🧩 Passionate about designing scalable systems and solving real-world engineering problems
+- 🚀 Always building projects to improve software engineering and cloud development skills
 
 ---
 
-### 🔧 Technologies & Tools
+# 🛠 Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cpp)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 📌 Featured Projects
+### Backend
 
-- 📊 **[Sort Benchmark](https://github.com/mennamohamed-ai/Sort-Benchmark)**  
-  Java application for benchmarking sorting algorithms, including sequential and parallel merge sort using the Fork/Join framework. Features performance analysis and visualization.
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- 🤖 **[Machine Learning Project](https://github.com/mennamohamed-ai/machine_project)**  
-  Python-based project covering data preprocessing, feature engineering, model training (Regression, KNN, Logistic Regression), and evaluation using real datasets.
+### Databases
 
-- 💤 **[Sleeping TA Problem](https://github.com/mennamohamed-ai/Sleeping-TA-)**  
-  Implementation of the classical synchronization problem using Java multithreading and concurrency patterns with real-time GUI visualization.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🧩 **[KenKen Puzzle Solver](https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-)**  
-  Algorithmic solver for KenKen logic puzzles using backtracking and structured problem-solving techniques, complete with GUI for user interaction.
+### DevOps & Cloud
 
-- 🎮 **[TIC-TAC-TOY](https://github.com/mennazezo5/TIC-TAC-TOY)**  
-  Classic console-based game developed in C++ demonstrating OOP and problem-solving skills.
-
-- 🗃️ **[File Organizing Tool](https://github.com/mennazezo5/file-organizing)**  
-  Command-line utility in C++ to automatically organize files by type, showcasing automation and file system handling.
-
-- 🔐 **[File Encryption & Decryption App](https://github.com/mennazezo5/File-Encryption-and-Decryption-App)**  
-  Secure file handling application implemented in C++ for encryption and decryption of sensitive data.
-
-- 🍽️ **[Restaurant Management System](https://github.com/mennazezo5/-Restaurant-Management-System)**  
-  Java desktop application for managing restaurant operations, including orders, menus, and billing with a GUI interface.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 📚 Currently Learning
+# 🚀 Featured Projects
 
-- 🔎 Advanced Algorithms & Data Structures  
-- 🤖 Artificial Intelligence & Machine Learning  
-- 📊 Data Science with Python  
-- 🧩 System Design, UML, and Software Architecture  
-- 💡 Advanced Problem Solving Techniques  
-- 🕸️ Web Development & Backend Development  
+## 🐾 PetClinic AWS
 
----
+Cloud-ready Pet Clinic Management System built using a microservices architecture.
 
-### 📫 Connect With Me
+**Tech Stack**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/menna-mohamed-ai/)  
-- 📧 Email: mennamohamed00000011@gmail.com  
+- Spring Boot
+- React
+- Docker
+- FastAPI
+- MySQL
+- GitHub Actions
+- AWS
 
----
-
-### 📊 GitHub Stats
-
-![Menna's GitHub Stats](https://github-readme-stats-mrdulin.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats-mrdulin.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight)
+🔗 https://github.com/mennamohamed-ai/PetClinic-AWS
 
 ---
 
-### ⚡ Recent GitHub Activity
+## 🐾 PetClinic
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennamohamed-ai&theme=tokyo-night)
+Enterprise-style Pet Clinic Management System implementing modern backend architecture.
+
+**Highlights**
+
+- Spring Boot Microservices
+- Spring Security
+- JWT Authentication
+- Eureka
+- API Gateway
+- Docker Compose
+
+🔗 https://github.com/mennamohamed-ai/PetClinic
+
+---
+
+## 📊 Spreadsheet Formula Compiler
+
+Handwritten compiler front-end in Java featuring:
+
+- Lexical Analysis
+- Recursive-Descent Parser
+- AST Generation
+- Error Recovery
+
+🔗 https://github.com/mennamohamed-ai/SpreadsheetCompiler
+
+---
+
+## 🤖 Intelligent Text Summarization
+
+Natural Language Processing project implementing both extractive and abstractive summarization.
+
+**Tech**
+
+- Python
+- NLTK
+- TF-IDF
+- Sentence Transformers
+- BART
+- ROUGE Evaluation
+
+🔗 https://github.com/mennamohamed-ai/summarization_project
+
+---
+
+## 📈 Sort Benchmark
+
+Java project for benchmarking sequential and parallel sorting algorithms using the Fork/Join Framework.
+
+🔗 https://github.com/mennamohamed-ai/Sort-Benchmark
+
+---
+
+## 💤 Sleeping TA Problem
+
+Implementation of the classic synchronization problem using Java multithreading and concurrency.
+
+🔗 https://github.com/mennamohamed-ai/Sleeping-TA-
+
+---
+
+# 🌱 Currently Learning
+
+- Linux Administration
+- Docker
+- Kubernetes
+- AWS
+- CI/CD Pipelines
+- Infrastructure & Cloud Deployment
+
+---
+
+# 📫 Connect with Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/menna-mohamed-ai/
+
+📧 Email
+
+mennamohamed00000011@gmail.com
+
+---
+
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mennamohamed-ai&theme=tokyo-night)
+
+---
+
+# 🎯 2026 Goals
+
+- Master Docker
+- Learn Kubernetes
+- Deploy production-ready applications on AWS
+- Build complete CI/CD pipelines
+- Contribute to Open Source
+- Build production-grade backend systems
+
+---
 
 <p align="center">
-  🚀 Passionate about software development, problem solving, and building impactful systems. Let's connect!
+
+⭐ Thanks for visiting my profile!
+
 </p>
