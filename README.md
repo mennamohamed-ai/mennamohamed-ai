@@ -1,12 +1,17 @@
  <h1 align="center">Hi, I'm Menna Mohamed</h1>
 
 <p align="center">
-  💻 Fourth-Year Computer Science Student | Exploring DevOps | Passionate about AI, Software Engineering & Building Real-World Projects
+  <strong>Fourth-Year Computer Science Student | Exploring DevOps</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/mennamohamed-ai">GitHub</a> •
-  <a href="https://www.linkedin.com/in/menna-mohamed-ai/">LinkedIn</a>
+  Passionate about AI, Software Engineering & Building Real-World Projects
+</p>
+
+<p align="center">
+  <a href="https://github.com/mennamohamed-ai">GitHub</a> |
+  <a href="https://www.linkedin.com/in/menna-mohamed-ai/">LinkedIn</a> |
+  <a href="mailto:mennamohamed00000011@gmail.com">Email</a>
 </p>
 
 ---
@@ -25,47 +30,39 @@
 
 ### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-333333?style=flat&logo=openjdk&logoColor=ED8B00" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-333333?style=flat&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img src="https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=A8B9CC" alt="C" />
-  <img src="https://img.shields.io/badge/C%23-333333?style=flat&logo=csharp&logoColor=239120" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-333333?style=flat&logo=php&logoColor=777BB4" alt="PHP" />
-  <img src="https://img.shields.io/badge/SQL-333333?style=flat&logo=mysql&logoColor=4479A1" alt="SQL" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Web & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-333333?style=flat&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-333333?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-333333?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### AI & Data Science
 
-<p>
-  <img src="https://img.shields.io/badge/Scikit--Learn-333333?style=flat&logo=scikitlearn&logoColor=F7931E" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas&logoColor=150458" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243" alt="NumPy" />
-  <img src="https://img.shields.io/badge/OpenCV-333333?style=flat&logo=opencv&logoColor=5C3EE8" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/NLTK-333333?style=flat" alt="NLTK" />
-  <img src="https://img.shields.io/badge/Transformers-333333?style=flat&logo=huggingface&logoColor=FFD21E" alt="Transformers" />
-</p>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-333333?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ### DevOps & Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-333333?style=flat&logo=github&logoColor=FFFFFF" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-333333?style=flat&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -86,7 +83,7 @@ Cloud-ready microservices application built with Spring Boot, React, Docker, Doc
 - AWS
 - GitHub Actions
 
-🔗 [View Repository](https://github.com/mennamohamed-ai/PetClinic-AWS)
+[View Repository](https://github.com/mennamohamed-ai/PetClinic-AWS)
 
 ---
 
@@ -102,7 +99,7 @@ Enterprise-style microservices application implementing REST APIs, authenticatio
 - MySQL
 - Spring Security
 
-🔗 [View Repository](https://github.com/mennamohamed-ai/PetClinic)
+[View Repository](https://github.com/mennamohamed-ai/PetClinic)
 
 ---
 
@@ -117,7 +114,7 @@ Natural Language Processing project implementing both extractive and abstractive
 - BART Transformer
 - ROUGE Evaluation
 
-🔗 Private Repository
+Private Repository
 
 ---
 
@@ -130,7 +127,7 @@ Benchmarking sequential and parallel sorting algorithms using Java Fork/Join Fra
 - Multithreading
 - Fork/Join Framework
 
-🔗 [View Repository](https://github.com/mennamohamed-ai/Sort-Benchmark)
+[View Repository](https://github.com/mennamohamed-ai/Sort-Benchmark)
 
 ---
 
@@ -144,7 +141,7 @@ A handwritten compiler front-end for spreadsheet formulas implementing lexical a
 - Recursive Descent Parser
 - AST
 
-🔗 Private Repository
+Private Repository
 
 ---
 
@@ -157,7 +154,7 @@ Backtracking-based puzzle solver with GUI implementing search algorithms and opt
 - Backtracking
 - GUI
 
-🔗 [View Repository](https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-)
+[View Repository](https://github.com/mennamohamed-ai/KenKen_Puzzle_Solver-)
 
 ---
 
@@ -171,38 +168,43 @@ Java implementation of the classical synchronization problem using multithreadin
 - Synchronization
 - Swing
 
-🔗 [View Repository](https://github.com/mennamohamed-ai/Sleeping-TA-)
+[View Repository](https://github.com/mennamohamed-ai/Sleeping-TA-)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🐧 Linux
-- 🔀 Git & GitHub
-- 🐳 Docker
-- ☸️ Kubernetes
-- ⚙️ CI/CD
-- ☁️ Cloud Computing
-- 🏗️ Infrastructure as Code
-- 🔄 DevOps Practices
+- Linux
+- Git & GitHub
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud Computing
+- Infrastructure as Code
+- DevOps Practices
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Menna Mohamed](https://www.linkedin.com/in/menna-mohamed-ai/)
-- 📧 Email: [mennamohamed00000011@gmail.com](mailto:mennamohamed00000011@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/menna-mohamed-ai/)
+- [GitHub](https://github.com/mennamohamed-ai)
+- [Email](mailto:mennamohamed00000011@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/mennamohamed-ai">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mennamohamed-ai&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/mennamohamed-ai">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mennamohamed-ai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -216,5 +218,5 @@ Java implementation of the classical synchronization problem using multithreadin
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+  <strong>⭐ Thanks for visiting my profile!</strong>
 </p>
